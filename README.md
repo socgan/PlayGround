@@ -16,3 +16,13 @@
 - 👤 [Explore the creator's projects](https://go.ondev.store/socgan).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
+
+## Play
+
+Run a local web server from the project directory, then open the shown URL:
+
+```bash
+python3 -m http.server 3002
+```
+
+Open <http://localhost:3002>. The game is a touch-friendly 3D flower-watering arcade game; tap wilted flower beds to water them before the 45-second timer ends.
